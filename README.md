@@ -10,6 +10,6 @@ My research focuses on computational biology, with interests in genome editing (
 - MSTMap Online - performant web-server for linkage mapping utilizing its companion Python library
 - FUGUE – unified genome downloader for 2,000+ fungal species
 
-Outside the terminal, you’ll find me climbing, puzzling, practicing _Deutsch_, or playing guitar 🎸
+Outside the terminal, you’ll find me climbing, hiking, practicing _Deutsch_, or playing guitar 🎸
 
 🔬 Let’s build tools that matter.
