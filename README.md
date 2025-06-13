@@ -7,8 +7,8 @@ My research focuses on computational biology, with interests in genome editing (
 🧬 Most recent projects include:
 - SIRIUS – (current, coming soon) efficient and optimal divergent synonymous gene design
 - ALLEGRO – ultra-compact CRISPR guide library design across species
-- MSTMap Online – performant web-server for linkage mapping, and its companion Python library
 - FUGUE – unified genome downloader for 2,000+ fungal species
+- MSTMap Online – performant web-server for linkage mapping, and its companion Python library
 
 Outside the terminal, you’ll find me climbing, hiking, practicing _Deutsch_, or playing guitar 🎸
 
