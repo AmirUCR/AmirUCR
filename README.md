@@ -5,8 +5,9 @@ I'm Amir, a Ph.D. candidate in Computer Science at UC Riverside, based in sunny 
 My research focuses on computational biology, with interests in genome editing (CRISPR), algorithm design, and large-scale data analysis. I build open-source tools that help make biological data more accessible, efficient, and scalable.
 
 🧬 Most recent projects include:
-- ALLEGRO – ultra-compact CRISPR guide library design across species
+– RNA-seq Pipeline – simple but comprehensive analysis pipeline
 - SIRIUS – efficient and optimal divergent synonymous gene design
+- ALLEGRO – ultra-compact CRISPR guide library design across species
 - FUGUE – unified genome downloader for 2,000+ fungal species
 - MSTMap Online – performant web-server for linkage mapping, and its companion Python library
 
