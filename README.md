@@ -1,6 +1,4 @@
-Hi there! 👋
-
-I'm Amir, a Ph.D. candidate in Computer Science at UC Riverside, based in sunny Southern California 🌴
+Hi, I'm Amir! I'm a Computer Science Ph.D. from UC Riverside based in sunny Southern California 🌴
 
 My research focuses on computational biology, with interests in genome editing (CRISPR), algorithm design, and large-scale data analysis. I build open-source tools that help make biological data more accessible, efficient, and scalable.
 
