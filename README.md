@@ -12,4 +12,4 @@ My research focuses on computational biology, with interests in non-coding RNAs,
 
 Outside the terminal, you’ll find me climbing, hiking, practicing _Deutsch_, or playing guitar 🎸
 
-🔬 Let’s build tools that matter.
+🔬 I build tools that matter.
