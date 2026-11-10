@@ -1,6 +1,6 @@
-Hi, I'm Amir! I'm a Computer Science Ph.D. from UC Riverside based in sunny Southern California 🌴
+Hi, I'm Amir! I'm a Computer Science Ph.D. from UC Riverside based in beautiful Massachusetts 🎄
 
-My research focuses on computational biology, with interests in genome editing (CRISPR), algorithm design, and large-scale data analysis. I build open-source tools that help make biological data more accessible, efficient, and scalable.
+My research focuses on computational biology, with interests in non-coding RNAs, genome editing (CRISPR), algorithm design, and large-scale data analysis. I build open-source tools that help make biological data more accessible, efficient, and scalable.
 
 🧬 Most recent projects include:
 - ALLEGRO – ultra-compact CRISPR guide library design across species
